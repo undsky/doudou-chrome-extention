@@ -2,10 +2,10 @@
 
 > md + cose + n8n = doudou
 
-> Markdown 编辑器 + 多平台同步 + AI 工作流自动化平台 = 豆豆
+> Markdown 编辑器 + 多内容平台同步 + AI 工作流自动化平台 = 豆豆
 
-## 🙏 鸣谢
+### 文档
 
-- [md](https://github.com/doocs/md) - Markdown 编辑器
-- [cose](https://github.com/doocs/cose) - 多平台文章同步工具
-- [n8n](https://github.com/n8n-io/n8n) - AI 工作流自动化平台
+涵盖文章、爬虫、图文、视频等，详情见文档：
+
+[https://doudou.undsky.com](https://doudou.undsky.com)
