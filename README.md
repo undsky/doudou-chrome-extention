@@ -9,6 +9,7 @@ Chrome 扩展，人人都能做自媒体
 ### 文档
 
 - [快速开始](https://doudou.undsky.com/guide/getting-started.html)
+- [AI](https://doudou.undsky.com/guide/ai.html)
 - [文章](https://doudou.undsky.com/guide/article.html)
 - [爬虫](https://doudou.undsky.com/guide/crawler.html)
 - [图文](https://doudou.undsky.com/guide/imagetext.html)
