@@ -10,4 +10,4 @@
 
 | 公众号                                       | 微信交流群                                                      |
 | -------------------------------------------- | --------------------------------------------------------------- |
-| ![公众号](https://cdn.undsky.com/img/gh.jpg) | ![微信交流群](https://cdn.undsky.com/img/doudouqun.jpg?v=2.0.1) |
+| ![公众号](https://cdn.undsky.com/img/gh.jpg) | ![微信交流群](https://cdn.undsky.com/img/doudouqun.jpg?v=2.2.2) |
