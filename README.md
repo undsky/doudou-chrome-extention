@@ -6,6 +6,12 @@
 
 [https://doudou.undsky.com](https://doudou.undsky.com)
 
+### 下载
+
+[https://github.com/undsky/doudou-chrome-extention/releases](https://github.com/undsky/doudou-chrome-extention/releases)
+
+国内下载地址：[https://gitee.com/undsky/doudou-chrome-extention/releases](https://gitee.com/undsky/doudou-chrome-extention/releases)
+
 ![](https://doudou.undsky.com/images/doudou.png)
 
 | 公众号                                       | 微信交流群                                                      |
