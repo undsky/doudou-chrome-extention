@@ -26,7 +26,7 @@
 
 | 抖音视频复刻演示                               |                                                                                                                   |
 | ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| ![抖音视频复刻演示](抖音视频复刻演示/demo.png) | <video src="https://cdn.undsky.com/video/videocopydemo.mp4" controls autoplay muted loop>抖音视频复刻演示</video> |
+| ![抖音视频复刻演示](抖音视频复刻演示/demo.png) | <video src="https://github.com/user-attachments/assets/3d99cb2e-aabf-48ac-96c3-096266e704cc" controls autoplay muted loop>抖音视频复刻演示</video> |
 
 | GIF动画制作                          |                                      |
 | ------------------------------------ | ------------------------------------ |
