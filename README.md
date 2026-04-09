@@ -12,14 +12,22 @@
 
 国内下载地址：[https://gitee.com/undsky/doudou-chrome-extention/releases](https://gitee.com/undsky/doudou-chrome-extention/releases)
 
+### 无限画布工作流分享
+
+[https://pan.quark.cn/s/9ec33bf06043](https://pan.quark.cn/s/9ec33bf06043)
+
 ![](https://doudou.undsky.com/images/doudou.png)
 
 | 公众号                                       | 微信交流群                                                      |
 | -------------------------------------------- | --------------------------------------------------------------- |
 | ![公众号](https://cdn.undsky.com/img/gh.jpg) | ![微信交流群](https://cdn.undsky.com/img/doudouqun.jpg?v=2.3.0) |
 
-### 无限画布工作流
+### 无限画布工作流演示
 
-| GIF动画制作                           |                                                       |
-| ------------------------------------- | ----------------------------------------------------- |
-| ![GIF动画制作](GIF动画制作/togif.png) | ![GIF动画制作](GIF动画制作/media_1775612400770_0.gif) |
+| 抖音视频复刻演示                               |                                                                                              |
+| ---------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| ![抖音视频复刻演示](抖音视频复刻演示/demo.png) | <video src="抖音视频复刻演示/demo.mp4" controls autoplay muted loop>抖音视频复刻演示</video> |
+
+| GIF动画制作                          |                                      |
+| ------------------------------------ | ------------------------------------ |
+| ![GIF动画制作](GIF动画制作/demo.png) | ![GIF动画制作](GIF动画制作/demo.gif) |
