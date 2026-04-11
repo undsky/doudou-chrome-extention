@@ -12,10 +12,6 @@
 
 国内下载地址：[https://gitee.com/undsky/doudou-chrome-extention/releases](https://gitee.com/undsky/doudou-chrome-extention/releases)
 
-### 无限画布工作流分享
-
-[https://pan.quark.cn/s/9ec33bf06043](https://pan.quark.cn/s/9ec33bf06043)
-
 ![](https://doudou.undsky.com/images/doudou.png)
 
 | 公众号                                       | 微信交流群                                                      |
